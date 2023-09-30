@@ -1,0 +1,12 @@
+{
+    "Temp": 21.5,
+    "Pressure":1017.3,
+    "Humidity":76.0,
+    "WindSpeed":7.0 ,
+    "WindDir":12.0 ,
+    "WindGustSpeed":31.0 ,
+    "WindGustDir":5.0,
+    "Cloud":7.0,
+    "Sunshine":0.0,
+    "Rainfall":2.2
+}
